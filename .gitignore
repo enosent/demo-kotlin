@@ -1,0 +1,30 @@
+.svn/
+
+# IntelliJ
+*.iml
+.idea/
+
+# Eclipse
+.project
+.classpath
+.eclipse-pmd
+.settings/
+bin/
+out/
+
+target/
+build/
+.springBeans
+.gradle*
+
+# Mac
+.DS_Store
+
+# log
+logs/
+
+.apt_generated/
+.factorypath
+
+# 빌드 또는 테스트 수행 시 자동 생성되는 폴더 제외
+src/docs/asciidoc/generated/
